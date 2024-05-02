@@ -126,7 +126,7 @@ export function DashboardUrl() {
                     Optimize URL
                   </Button>
                 </div>
-                <div className="mt-[20px]">{newUrl}</div>
+                <div className="mt-[20px] text-sm">{newUrl}</div>
               </CardContent>
             </Card>
             <Card className="relative ">
